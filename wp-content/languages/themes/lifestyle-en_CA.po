@@ -1,0 +1,51 @@
+# Translation of Lifestyle in English (Canada)
+# This file is distributed under the same license as the Lifestyle package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-12 17:55:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Lifestyle\n"
+
+#. Theme Name of the plugin/theme
+msgid "Lifestyle"
+msgstr "Lifestyle"
+
+#. Description of the plugin/theme
+msgid "Lifestyle theme is a minimalist responsive HTML5 Omega child theme for WordPress, created with simplicity in mind."
+msgstr "Lifestyle theme is a minimalist responsive HTML5 Omega child theme for WordPress, created with simplicity in mind."
+
+#. Template Name of the plugin/theme
+msgid "Full-width, No Sidebar"
+msgstr "Full-width, No Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: functions.php:56
+msgid "Home Banner"
+msgstr "Home Banner"
+
+#: functions.php:132
+msgid "Primary Color"
+msgstr "Primary Colour"
+
+#: functions.php:135
+msgid "Link Color"
+msgstr "Link Colour"
+
+#. Theme URI of the plugin/theme
+msgid "http://themehit.com/lifestyle-minimalist-wordpress-theme"
+msgstr "http://themehit.com/lifestyle-minimalist-wordpress-theme"
+
+#. Author of the plugin/theme
+msgid "themehit.com"
+msgstr "themehit.com"
+
+#. Author URI of the plugin/theme
+msgid "http://themehit.com"
+msgstr "http://themehit.com"
